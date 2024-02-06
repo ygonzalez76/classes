@@ -1,0 +1,26 @@
+.orangeBox{
+    background-color: orange;
+    width: 1000px;
+    height: 100px;
+    color: white;
+    display: inline-block;
+    padding: 50px;
+    border: 1px solid red;
+    margin: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.paraDecor{
+    background-color: lightblue;
+    color: white;
+    font: bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    margin: 10px;
+    border: 1px solid lightcoral;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 30px;
+    display: inline-block;
+}
